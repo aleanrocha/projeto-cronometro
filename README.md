@@ -1,4 +1,4 @@
-# Cronõmetro
+# Cronômetro
 
 ![stopwatch-project](https://github.com/aleanrocha/projeto-cronometro/assets/109040443/17fb7d1c-130e-4a1e-a27b-b5592c55b044)
 
